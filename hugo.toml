@@ -1,5 +1,0 @@
-baseURL = 'http://shyrz.day/'
-languageCode = 'zh-CN'
-title = 'My New Hugo Site'
-
-theme = 'paper'
