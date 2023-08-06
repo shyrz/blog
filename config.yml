@@ -8,11 +8,20 @@ enableRobotsTXT: true
 enableEmoji: true
 
 params:
+  env: production
   description: "Information is like a wind, always by my side."
+  keywords: [Blog, Portfolio]
   author: Shyrz
   images:
     - cover.png
   favicon: favicon.svg
+  defaultTheme: dark # dark, light, auto
+  disableThemeToggle: true
+
+  # label:
+  #   text: "Informavore"
+  #   icon: logotype.png
+  #   iconHeight: 35
 
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
