@@ -8,14 +8,12 @@ enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  color: dark
   description: "Information is like a wind, always by my side."
   author: Shyrz
   images:
     - cover.png
-  favicon: favicon.ico
-  #logo:
-  #  icon: images/logo.svg
+  favicon: favicon.svg
+
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
