@@ -8,9 +8,7 @@ categories:
 tags: 
 comments: true
 ---
-```ad-note
-**系统**: Ubuntu 22.04
-```
+系统 Ubuntu 22.04
 
 ## 安装 `certbot` 
 
