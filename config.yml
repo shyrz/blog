@@ -23,7 +23,7 @@ params:
   #   icon: logotype.png
   #   iconHeight: 35
 
-  DateFormat: "2006-01-02"
+  DateFormat: " 2006-01-02"
   useCustomAnalytics: true
   mainSections:
     - posts
