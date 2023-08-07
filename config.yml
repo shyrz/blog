@@ -1,6 +1,6 @@
 title: Informavore
 baseURL: "https://informavo.re/"
-theme: PaperModX
+theme: papyrus
 languageCode: zh-CN
 paginate: 7
 
@@ -16,14 +16,14 @@ params:
     - cover.png
   favicon: favicon.svg
   defaultTheme: dark # dark, light, auto
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   # label:
   #   text: "Informavore"
   #   icon: logotype.png
   #   iconHeight: 35
 
-  DateFormat: " 2006-01-02"
+  DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
     - posts
@@ -33,7 +33,7 @@ params:
   DisableLanguageSwitch: true
   TocOpen: true
   TocSide: right
-  EnableInstantClick: false
+  EnableInstantClick: true
   EnableImageZoom: true
   ShowShareButtons: true
   ShareButtons:
