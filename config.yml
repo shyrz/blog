@@ -15,6 +15,8 @@ params:
   images:
     - cover.png
   favicon: favicon.svg
+  logo:
+    icon: images/logotype.svg
   defaultTheme: dark # dark, light, auto
   disableThemeToggle: false
 
