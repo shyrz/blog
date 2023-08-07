@@ -15,8 +15,8 @@ params:
   images:
     - cover.png
   favicon: favicon.svg
-  logo:
-    icon: images/logotype.svg
+  # logo:
+  #   icon: images/logotype.svg
   defaultTheme: dark # dark, light, auto
   disableThemeToggle: false
 
@@ -65,11 +65,11 @@ params:
       username: shyrz__
 
   homeInfoParams:
-    Title: "Information is like a wind, always by my side."
+    Title: "▲ 信息动物"
     Content: |
-      Welcome to Informavore.
+      欢迎来到信息动物 Informavore.
       
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      - 本站点为 Shyrz 的 Obsidian vault 生成的发布，主题为 [Papyrus](https://github.com/shyrz/hugo-papyrus)，基于 [Reorx](https://reorx.com) 的 [PaperModX](https://github.com/reorx/hugo-PaperModX)。
 
       - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
