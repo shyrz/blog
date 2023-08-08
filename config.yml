@@ -15,10 +15,10 @@ params:
   images:
     - cover.png
   favicon: favicon.svg
-  # logo:
-  #   icon: images/logotype.svg
+  logo:
+    icon: images/logo.svg
   defaultTheme: dark # dark, light, auto
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   # label:
   #   text: "Informavore"
@@ -67,15 +67,13 @@ params:
   homeInfoParams:
     Title: "▲ 信息动物"
     Content: |
-      欢迎来到信息动物 Informavore.
+      欢迎来到信息动物 Informavore
       
-      - 本站点为 Shyrz 的 Obsidian vault 生成的发布，主题为 [Papyrus](https://github.com/shyrz/hugo-papyrus)，基于 [Reorx](https://reorx.com) 的 [PaperModX](https://github.com/reorx/hugo-PaperModX)。
+      - 本站点为 Shyrz 的 Obsidian 仓库生成的发布
+      
+      - 主题采用的是 [Papyrus](https://github.com/shyrz/hugo-papyrus)，基于 [Reorx](https://reorx.com) 的 [PaperModX](https://github.com/reorx/hugo-PaperModX) 开发
 
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
-
-      To get started, please head to the [Docs](docs).
-
-      To see examples of different contents, head to [examples tag](tags/example).
+      - 当前尚存在诸多不完善之处，将在今后逐步修正
 
   commentSystems:
    disqus:
