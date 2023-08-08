@@ -13,7 +13,7 @@ params:
   keywords: [Blog, Portfolio]
   author: Shyrz
   images:
-    - cover.svg
+    - banner.png
   favicon: favicon.svg
   logo:
     icon: images/logo.svg
