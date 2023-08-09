@@ -9,7 +9,7 @@ enableEmoji: true
 
 params:
   env: production
-  description: "Information is like a wind, always by my side."
+  description: "[ɪnˈfɔːməvɔ:] n. 信息动物"
   keywords: [Blog, Portfolio]
   author: Shyrz
   images:
@@ -65,13 +65,15 @@ params:
       username: shyrz__
 
   homeInfoParams:
-    Title: "▲ 信息动物"
+    Title: "欢迎来到 Informavore"
     Content: |
-      欢迎来到信息动物 Informavore
+      ![Informavore Banner](https://imagedelivery.net/bmx_Bz-2amK-lprtnRGq9Q/163ea624-e0c3-4170-4f19-c0e1cbf3db00/public)
       
+      **[ɪnˈfɔːməvɔ:] n. 信息动物**
+
       - 本站点为 Shyrz 的 Obsidian 仓库生成的发布
       
-      - 主题采用的是 [Papyrus](https://github.com/shyrz/hugo-papyrus)，基于 [Reorx](https://reorx.com) 的 [PaperModX](https://github.com/reorx/hugo-PaperModX) 开发
+      - 主题采用的是 <u>[Papyrus](https://github.com/shyrz/hugo-papyrus)</u>，基于 <u>[Reorx](https://reorx.com)</u> 的 <u>[PaperModX](https://github.com/reorx/hugo-PaperModX)</u> 开发
 
       - 当前尚存在诸多不完善之处，将在今后逐步修正
 
