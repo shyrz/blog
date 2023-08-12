@@ -1,11 +1,13 @@
 ---
-title: "Ubuntu 22.04 下的 Ghost 安装笔记"
+title: Ubuntu 22.04 下的 Ghost 安装笔记
 date: 2023-08-06T10:59:00.000+00:00
 draft: false
 author: Shyrz
-summary:
+description: 
 categories: 
-tags: 
+tags:
+  - Ubuntu
+  - Ghost
 comments: true
 ---
 系统 Ubuntu 22.04

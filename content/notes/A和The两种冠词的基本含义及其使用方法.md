@@ -1,12 +1,9 @@
 ---
-title: "A和The两种冠词的基本含义及其使用方法"
-date: 2023-08-06T15:30:00.000+00:00
+title: A和The两种冠词的基本含义及其使用方法
+date: 2023-08-06
 draft: false
-author: Shyrz
-summary:
-categories: 
-tags: 
-comments: true
+tags:
+  - English
 ---
 # 冠词的基本含义
 
